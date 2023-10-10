@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0%;
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+}
+video{
+    width: 100%;
+}
+
+@media(max-width:768px){
+    video{
+        width: 100%;
+    }
+
+}
